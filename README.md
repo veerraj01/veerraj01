@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veer Raj</h1>
 <img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh3128&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh3128" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=veerraj01&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh3128" /> </p>
 
 - :school: I'm currently studying at *Bharati Vidyapeeth University, Pune*
 
