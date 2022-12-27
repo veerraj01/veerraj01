@@ -9,9 +9,7 @@
 
 - 🌱 I’m on track for learning more about App Development and Software Engineering.
 
-- You can shoot me an email at *jaiswalveer11@gmail.com*
-
-<!-- - ✍️ In my free time, I pursue Reading and watching Anime as hobbies. -->
+- You can shoot me an email at **jaiswalveer11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +23,9 @@
 
 <!-- <p><img align="right" alt="img" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img><p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veerraj01&show_icons=true&locale=en&layout=compact" alt="utkarsh3128" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=veerraj01&show_icons=true&locale=en&layout=compact" alt="veerraj01"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veerraj01&show_icons=true&locale=en" alt="utkarsh3128" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=veerraj01&show_icons=true&locale=en" alt="utkarsh3128" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=veerraj01&" alt="veerraj01" /></p>
 
