@@ -5,7 +5,7 @@
 
 - :school: I'm currently studying at *Bharati Vidyapeeth University, Pune*
 
-- :book: I'm currently learning *Java* and *App Development*
+- :book: I'm currently learning *C++* and *Web-Development*
 
 - 🌱 I’m on track for learning more about App Development and Software Engineering.
 
